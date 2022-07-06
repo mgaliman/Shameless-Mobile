@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "467935944795",
+    "project_id": "shameless-app",
+    "storage_bucket": "shameless-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467935944795:android:e4444e2d0e55dc9fe75f7e",
+        "android_client_info": {
+          "package_name": "com.example.shameless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467935944795-5i1hqp34s2gp7elumsg6uhs9i6bmmppq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-xRF-eIhMF5zbeCtusc-UO8otw-gg8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467935944795-5i1hqp34s2gp7elumsg6uhs9i6bmmppq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467935944795-vmt86fos3oon2mk8memlc8bkhto015bo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shameless"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
